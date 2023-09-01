@@ -1,0 +1,10 @@
+.col-md-2 {
+  height: 90vh;
+}
+.card {
+  width: 100%;
+  height: 360px;
+}
+body {
+  background-color: #dddddd;
+}

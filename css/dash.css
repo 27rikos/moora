@@ -1,0 +1,21 @@
+.col-md-2 {
+  height: 90vh;
+}
+.card {
+  width: 100%;
+  height: 360px;
+}
+body {
+  background-color: #dddddd;
+}
+.aksi{
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 2px;
+}
+.btn-primary {
+  margin-right: 2px;
+}
+.btn-danger {
+  margin-left: 2px;
+}
